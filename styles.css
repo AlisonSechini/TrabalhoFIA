@@ -1,0 +1,25 @@
+body{
+    width: 1920px;
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border-collapse: collapse; 
+}
+tr{
+    border: 1px solid black;    
+}
+td{
+    border: 1px solid black;  
+}
+.topmenu{
+    width: 100%;
+    position: absolute;
+    top: 0 auto;
+    background-image: linear-gradient(to right, #003063 , #FF0100);
+    
+}
+.fia{    
+    width: 80px;
+}
